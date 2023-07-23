@@ -61,9 +61,8 @@ const App = () => {
         <Header></Header>
         <br />
         <Routes>
-          <Route path="/" element={<BOT />} />
+          {/* <Route path="/" element={<BOT />} /> */}
           <Route path="/bot" element={<BOT />} />
-          <Route path="/test-case" element={<TestCaseManagement />} />
           <Route path="/device-management" element={<Device />} />
           <Route path="/agency-management" element={<Agency />} />
           <Route path="/account-management" element={<Account />} />
