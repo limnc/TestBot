@@ -5,7 +5,6 @@ import Cookies from "js-cookie";
 // import './App.css';
 import Header from "./Pages/header.jsx";
 import BOT from "./Pages/bot.jsx";
-import TestCaseManagement from "./Pages/testcase.jsx";
 import Account from "./Pages/account.jsx";
 import Device from "./Pages/device.jsx";
 import Management from "./Pages/agencyDeviceManagement.jsx";

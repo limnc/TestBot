@@ -2,7 +2,7 @@
   "name": "bot-automation",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://limnc.github.io/TestBot",
+  "homepage": "https://limnc.github.io/index.html",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@testing-library/jest-dom": "^5.16.5",
